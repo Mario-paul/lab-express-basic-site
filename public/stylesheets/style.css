@@ -7,6 +7,10 @@ h1 {
 } */
 
 body {
-    color: black;
-    background-color: bisque;
-  }
+    color: rgb(209, 209, 209);
+    /* background-color: bisque; */
+    background-color: rgb(31, 31, 31);
+}
+a:link {
+    color: rgb(0, 102, 255);
+}
